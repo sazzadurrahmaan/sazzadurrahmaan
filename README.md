@@ -4,9 +4,9 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/sazzadur-rahmaan/">💼 LinkedIn</a> &nbsp;·&nbsp;
-<a href="https://sazzad.online">🌐 sazzad.online</a> &nbsp;·&nbsp;
-<a href="https://www.facebook.com/sazzadurrahmannawshad">📘 Facebook</a>
+<a href="https://www.linkedin.com/in/sazzadur-rahmaan/">LinkedIn</a> &nbsp;·&nbsp;
+<a href="https://sazzad.online">sazzad.online</a> &nbsp;·&nbsp;
+<a href="https://www.facebook.com/sazzadurrahmannawshad">Facebook</a>
 
 <br/>
 
@@ -16,31 +16,51 @@
 
 ---
 
-## 🚀 What I'm Building
+## What I'm Building
 
 > **Full Stack Engineer at [Startise](https://startise.com)** — shipping **xCloud**, a modern cloud hosting & server management platform. One-click server provisioning, automated deployments, advanced monitoring, and more — so teams can move fast without worrying about infrastructure.
 
-- 🔭 Currently architecting **xCloud** — multi-provider cloud hosting (AWS, DigitalOcean, Vultr & more)
-- ⚙️ Deep into **server automation**, Linux scripting, and production hardening
-- 🧠 Obsessed with **clean architecture** and systems that scale without turning into spaghetti
-- 📍 Based in **Mirpur, Dhaka, Bangladesh**
-- 💬 Ask me about **Laravel**, **Vue 3**, **Inertia.js**, or **VPS automation**
+- Currently architecting **xCloud** — multi-provider cloud hosting (AWS, DigitalOcean, Vultr & more)
+- Deep into **server automation**, Linux scripting, and production hardening
+- Obsessed with **clean architecture** and systems that scale without turning into spaghetti
+- Based in **Mirpur, Dhaka, Bangladesh**
+- Ask me about **Laravel**, **Vue 3**, **Inertia.js**, or **VPS automation**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-**Backend** &nbsp;&nbsp; <kbd>PHP 8.4</kbd> <kbd>Laravel</kbd> <kbd>MySQL</kbd> <kbd>Redis</kbd> <kbd>Sanctum</kbd> <kbd>Horizon</kbd>
+**Backend** &nbsp;&nbsp;
+<kbd><img src="https://cdn.simpleicons.org/php/777BB4" width="13" height="13"> PHP 8.4</kbd>
+<kbd><img src="https://cdn.simpleicons.org/laravel/FF2D20" width="13" height="13"> Laravel</kbd>
+<kbd><img src="https://cdn.simpleicons.org/mysql/4479A1" width="13" height="13"> MySQL</kbd>
+<kbd><img src="https://cdn.simpleicons.org/redis/DC382D" width="13" height="13"> Redis</kbd>
+<kbd>Sanctum</kbd>
+<kbd>Horizon</kbd>
 
-**Frontend** &nbsp;&nbsp; <kbd>Vue 3</kbd> <kbd>Inertia.js</kbd> <kbd>Tailwind CSS</kbd> <kbd>JavaScript</kbd> <kbd>Alpine.js</kbd>
+**Frontend** &nbsp;&nbsp;
+<kbd><img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" width="13" height="13"> Vue 3</kbd>
+<kbd><img src="https://cdn.simpleicons.org/inertia/9553E9" width="13" height="13"> Inertia.js</kbd>
+<kbd><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="13" height="13"> Tailwind CSS</kbd>
+<kbd><img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="13" height="13"> JavaScript</kbd>
+<kbd><img src="https://cdn.simpleicons.org/alpinedotjs/8BC0D0" width="13" height="13"> Alpine.js</kbd>
 
-**Infrastructure** &nbsp;&nbsp; <kbd>Linux</kbd> <kbd>Nginx</kbd> <kbd>Docker</kbd> <kbd>GitHub Actions</kbd> <kbd>Cloudflare</kbd> <kbd>Shell</kbd>
+**Infrastructure** &nbsp;&nbsp;
+<kbd><img src="https://cdn.simpleicons.org/linux/FCC624" width="13" height="13"> Linux</kbd>
+<kbd><img src="https://cdn.simpleicons.org/nginx/009639" width="13" height="13"> Nginx</kbd>
+<kbd><img src="https://cdn.simpleicons.org/docker/2496ED" width="13" height="13"> Docker</kbd>
+<kbd><img src="https://cdn.simpleicons.org/githubactions/2088FF" width="13" height="13"> GitHub Actions</kbd>
+<kbd><img src="https://cdn.simpleicons.org/cloudflare/F38020" width="13" height="13"> Cloudflare</kbd>
+<kbd><img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="13" height="13"> Shell</kbd>
 
-**Cloud** &nbsp;&nbsp; <kbd>AWS</kbd> <kbd>DigitalOcean</kbd> <kbd>Vultr</kbd>
+**Cloud** &nbsp;&nbsp;
+<kbd><img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="13" height="13"> AWS</kbd>
+<kbd><img src="https://cdn.simpleicons.org/digitalocean/0080FF" width="13" height="13"> DigitalOcean</kbd>
+<kbd><img src="https://cdn.simpleicons.org/vultr/007BFC" width="13" height="13"> Vultr</kbd>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -57,7 +77,7 @@
 
 ---
 
-## 🏆 Trophies
+## Trophies
 
 <div align="center">
 
@@ -67,7 +87,7 @@
 
 ---
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
@@ -81,6 +101,6 @@
 
 *"Complexity is a bug, not a feature."*
 
-**⚡ Architecting systems that scale. Shipping products that matter.**
+**Architecting systems that scale. Shipping products that matter.**
 
 </div>
