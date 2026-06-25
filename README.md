@@ -10,8 +10,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=sazzadurrahmaan&color=58A6FF&label=Profile+Views&style=flat-square)
-
 </div>
 
 ---
